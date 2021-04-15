@@ -1,4 +1,5 @@
-### :sunglasses: Olá meu nome é Eduardo, sou desenvolvedor Front-End.
+<h1>Eduardo Del Roy :nerd_face:</h1>
+
 
 ### :speech_balloon: Habilidades: | HTML | CSS | JS
 ### :bar_chart: Github Stats
